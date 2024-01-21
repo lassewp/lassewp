@@ -5,7 +5,7 @@ AP Graduate in Computer Science
 -------------------------------
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at [willaume.xyz](http://willaume.net)
+* 🖥️  See my portfolio at [willaume.net](http://willaume.net)
 * ✉️  You can contact me at [lassewq@gmail.com](mailto:lassewq@gmail.com)
 * 🧠  I'm learning machine learning
 
