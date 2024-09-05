@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AP Graduate in Computer Science
 -------------------------------
 
-* 🌍  I'm based in Denmark
+* 🌍  I'm based and work in Denmark
 * 🖥️  See my portfolio at [willaume.net](https://willaume.net)
 * ✉️  You can contact me at [lasse@willaume.net](mailto:lasse@willaume.net)
 * 🧠  I'm learning machine learning and NextJS
